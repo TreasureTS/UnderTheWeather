@@ -1,0 +1,27 @@
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\CloudSDK.pdb
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\CloudSDK.CloudSDK.apk
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\CloudSDK.CloudSDK-Signed.apk
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\Newtonsoft.Json.dll
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\Newtonsoft.Json.xml
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\obj\Debug\CloudSDK.dll
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\obj\Debug\CloudSDK.pdb
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\obj\Debug\android\bin\CloudSDK.CloudSDK.apk
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\obj\Debug\res\values\strings.xml
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\obj\Debug\R.cs.flag
+c:\users\tnkonyana\documents\visual studio 2017\Projects\CloudSDK\CloudSDK\obj\Debug\uploadflags.txt
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll.mdb
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.pdb
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.CloudSDK.apk
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.CloudSDK-Signed.apk
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\CloudSDK.csprojResolveAssemblyReference.cache
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\CloudSDK.dll
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\CloudSDK.pdb
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\android\bin\CloudSDK.CloudSDK.apk
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\res\values\strings.xml
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\R.cs.flag
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\uploadflags.txt
+C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll.mdb
