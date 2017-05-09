@@ -23,12 +23,13 @@ namespace CloudSDK.RESTFulService
     {
 
         private string TAG = "APIRequest";
+        private int retryLimit = 3;
         /// <summary>
         /// Resposible for getting the weather information from the API
         /// </summary>
         /// <param name="latitude"></param>
         /// <param name="longitude"></param>
-        public bool getWeatherConditionInfo(double latitude, double longitude)
+        public bool getWeatherConditionInfo(double latitude, double longitude, int retry = 0)
         {
             bool isResponse = false;
             try
@@ -39,7 +40,7 @@ namespace CloudSDK.RESTFulService
 
                 //Http client
                 WebClient client = new WebClient();
-                client.Headers.Add("Authorization",Settings.apiKey);
+                client.Headers.Add("Authorization", Settings.apiKey);
                 client.Headers.Add("content-type", "application/json");
 
                 //Open stream and reading content from it.
@@ -51,7 +52,7 @@ namespace CloudSDK.RESTFulService
                 // JsonConvert.PopulateObject(content, weatherconditionsObj);
 
                 JObject jsonObject = JObject.Parse(content);
- 
+
                 WeatherSingleton.Instance.maximumTemperature = (double)jsonObject.SelectToken("main.temp_max");
                 WeatherSingleton.Instance.minimumTemparature = (double)jsonObject.SelectToken("main.temp_min");
                 WeatherSingleton.Instance.nameOfPlace = (string)jsonObject.SelectToken(".name");
@@ -70,6 +71,15 @@ namespace CloudSDK.RESTFulService
             catch (Exception ex)
             {
                 Log.e(TAG, "Failed to get weather information from the API because " + ex.Message);
+
+                //Code to be updated 
+                if (retry < retryLimit)
+                {
+                    IAPIRequest api = new APIRequest();
+                    Log.d(TAG, "Retries " + retry);
+                    bool weatherConditionRetry = api.getWeatherConditionInfo(latitude, longitude, retry + 1);
+                    return weatherConditionRetry;
+                }
                 isResponse = false;
             }
             return isResponse;
@@ -91,11 +101,11 @@ namespace CloudSDK.RESTFulService
                 WebClient client = new WebClient();
                 Log.d(TAG, "URI " + URI);
                 var imageBytes = client.DownloadData(URI);
-                if (imageBytes !=null && imageBytes.Length > 0)
+                if (imageBytes != null && imageBytes.Length > 0)
                 {
                     bitmapImage = BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
                 }
-               
+
             }
             catch (Exception ex)
             {
@@ -104,6 +114,6 @@ namespace CloudSDK.RESTFulService
             return bitmapImage;
         }
 
-       
+
     }
 }

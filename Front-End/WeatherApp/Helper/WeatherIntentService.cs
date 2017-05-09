@@ -17,7 +17,7 @@ using CloudSDK.Models;
 namespace WeatherApp
 {
     [Service]
-    public class WeatherIntentService : IntentService,ILocationListener
+    public class WeatherIntentService : IntentService, ILocationListener
     {
         private string TAG = "WeatherIntentService";
         LocationManager locationmanager;
@@ -34,14 +34,14 @@ namespace WeatherApp
             base.OnDestroy();
         }
         //Name of my worker thread
-        public WeatherIntentService() :base("workerThread")
+        public WeatherIntentService() : base("workerThread")
         {
-           
+
         }
         //Handles data that hase been pass on through the intent
         protected override void OnHandleIntent(Intent intent)
         {
-            
+
         }
 
         [return: GeneratedEnum]
@@ -54,20 +54,28 @@ namespace WeatherApp
 
         public void OnLocationChanged(Location location)
         {
-            
-            WeatherSingleton.Instance.dateTime = DateTime.Now;
-            bool save = WeatherAdapter.getWeatherConditionInfo(location.Latitude, location.Longitude);
-            Log.d(TAG, "Lattitude " + location.Latitude + "Longitude " + location.Longitude);
+            if (location != null)
+            {
+                WeatherSingleton.Instance.dateTime = DateTime.Now;
+                //api call to get the current weather condition
+                bool save = WeatherAdapter.getWeatherConditionInfo(location.Latitude, location.Longitude);
+                WeatherSingleton.Instance.getBitMap = WeatherAdapter.getImageBitMapFromURL(WeatherSingleton.Instance.imgIcon);
+
+            }
+            else
+            {
+                Toast.MakeText(this, "Please turn on location", ToastLength.Long).Show();
+            }
         }
 
         public void OnProviderDisabled(string provider)
         {
-           
+            Toast.MakeText(this, "Please turn on GPS / connect to the internet", ToastLength.Long).Show();
         }
 
         public void OnProviderEnabled(string provider)
         {
-            
+
         }
 
         public void OnStatusChanged(string provider, [GeneratedEnum] Availability status, Bundle extras)
@@ -91,7 +99,7 @@ namespace WeatherApp
             {
                 Log.e(TAG, "ERR " + ex.Message);
             }
-          
+
         }
     }
 }

@@ -25,3 +25,17 @@ C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\Cloud
 C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\R.cs.flag
 C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\obj\Debug\uploadflags.txt
 C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll.mdb
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.pdb
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.CloudSDK.apk
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.CloudSDK-Signed.apk
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\Newtonsoft.Json.dll
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\Newtonsoft.Json.xml
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\CloudSDK.csprojResolveAssemblyReference.cache
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\CloudSDK.dll
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\CloudSDK.pdb
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\android\bin\CloudSDK.CloudSDK.apk
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\res\values\strings.xml
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\R.cs.flag
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\obj\Debug\uploadflags.txt
+C:\GITHUB\Under The Weather\CloudSDK\CloudSDK\bin\Debug\CloudSDK.dll.mdb

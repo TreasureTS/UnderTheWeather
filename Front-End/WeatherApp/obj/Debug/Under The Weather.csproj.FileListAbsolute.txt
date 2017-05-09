@@ -59,4 +59,63 @@ C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\Front
 C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\WeatherApp.dll.mdb
 C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\Front-End\WeatherApp\obj\Debug\WeatherApp.dll.mdb
-C:\Users\TNkonyana\Documents\Visual Studio 2017\Projects\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.dll
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.WeatherApp.apk
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.WeatherApp-Signed.apk
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\CloudSDK.dll
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\CloudSDK.pdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\CloudSDK.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\WeatherApp.dll
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\bin\WeatherApp.WeatherApp.apk
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\layout\weatherapplayout.xml
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\layout\splashlayout.xml
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\values\strings.xml
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\drawable\icon.png
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\drawable\backgroundimage.png
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\values\color.xml
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\values\style.xml
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\drawable\cloudy.png
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\drawable\picture1.png
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\res\drawable\trans.png
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\R.cs.flag
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\uploadflags.txt
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\Under The Weather.csprojResolveAssemblyReference.cache
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\Java.Interop.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\Mono.Android.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\Mono.CSharp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\mscorlib.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Core.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Net.Http.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Numerics.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Xml.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\CloudSDK.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\android\assets\WeatherApp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\GITHUB\Under The Weather\Front-End\WeatherApp\bin\Debug\WeatherApp.dll.mdb

@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Android.Graphics;
 
 namespace CloudSDK.Models
 {
@@ -22,9 +23,9 @@ namespace CloudSDK.Models
             {
                 if (instance == null)
                 {
-                    instance = new WeatherSingleton();             
+                    instance = new WeatherSingleton();
                 }
-               return instance;
+                return instance;
             }
         }
 
@@ -33,7 +34,7 @@ namespace CloudSDK.Models
         /// </summary>
         /// <param name="iconCode"></param>
         /// <returns></returns>
-      
+
 
         //stores maximum temperature
         public double maximumTemperature = 0.0;
@@ -48,8 +49,7 @@ namespace CloudSDK.Models
         public DateTime dateTime;
         //handles image icon
         public string imgIcon = string.Empty;
-        public StringBuilder icon = new StringBuilder();
-       
         public string weatherDescription = string.Empty;
+        public Bitmap getBitMap = null;
     }
 }

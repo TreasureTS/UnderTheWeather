@@ -20,7 +20,7 @@ namespace CloudSDK.RESTFulService
         /// </summary>
         /// <param name="latitude"></param>
         /// <param name="longitude"></param>
-        bool getWeatherConditionInfo(double latitude, double longitude);
+        bool getWeatherConditionInfo(double latitude, double longitude, int retry = 0);
         Bitmap getImageBitMapFromURL(string uri);
     }
 }
